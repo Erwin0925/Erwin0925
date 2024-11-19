@@ -6,7 +6,7 @@
 
 <h3 align="center">A passionate developer from Malaysia - Kuala Lumpur </h3>
 
-- 🎓 Fresh graduate from <b>Asia Pacific University of Technology</b> with First Class Honors.
+- 🎓 Fresh graduate from <b>Asia Pacific University of Technology</b> with First Class Honors in <b>Bachelor of Computer Science (Intelligence System)</b>.
 - 🌟 Currently looking for a developer job based in <b>Kuala Lumpur</b>.
 - 🚀 Just finished learning the <b>MERN stack</b> and diving deeper into the <b>Full-Stack Developer</b> path.
 
