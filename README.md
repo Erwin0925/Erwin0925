@@ -1,10 +1,14 @@
+<a href="mailto:erwin925.07@gmail.com">
+  <img src="https://github.com/user-attachments/assets/b6d19597-52d9-4f1c-96fc-b7edde944880" alt="Email Banner" />
+</a>
+
 <h3 align="center">A passionate developer from Malaysia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwin0925&label=Profile%20views&color=0e75b6&style=flat" alt="erwin0925" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/erwin ko zhi shuen" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erwin ko zhi shuen" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/erwin-ko-zhi-shuen-3ba416237/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erwin ko zhi shuen" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/erwin0925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="erwin0925" height="30" width="40" /></a>
   <a href="https://kaggle.com/erwin0925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erwin0925" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/erwin0925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erwin0925" height="30" width="40" /></a>
