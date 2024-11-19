@@ -2,11 +2,15 @@
   <img src="https://github.com/user-attachments/assets/b6d19597-52d9-4f1c-96fc-b7edde944880" alt="Email Banner" />
 </a>
 
-<h3 align="center">A passionate developer from Malaysia</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwin0925&label=Profile%20views&color=0e75b6&style=flat" alt="erwin0925" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="center">A passionate developer from Malaysia - Kuala Lumpur </h3>
+
+- 🎓 Fresh graduate from <b>Asia Pacific University of Technology</b> with First Class Honors.
+- 🌟 Currently looking for a developer job based in <b>Kuala Lumpur</b>.
+- 🚀 Just finished learning the <b>MERN stack</b> and diving deeper into the <b>Full-Stack Developer</b> path.
+
+<h3 align="left">🧷 Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/in/erwin-ko-zhi-shuen-3ba416237/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erwin ko zhi shuen" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/28005290/erwin0925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="erwin0925" height="30" width="40" /></a>
@@ -14,7 +18,7 @@
   <a href="https://www.leetcode.com/erwin0925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erwin0925" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Development Languages and Tools:</h3>
+<h3 align="left">💻 Development Languages and Tools:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
   <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -32,7 +36,7 @@
 </p>
 
 
-<h3>Data Analyst & Machine Learning:</h3>
+<h3>📈 Data Analyst & Machine Learning:</h3>
 <p align="left">
   <img src="https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black" alt="Matplotlib" />
@@ -45,4 +49,6 @@
 
 
 <h3 align="left">GitHub Stats:</h3>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Erwin0925&theme=dark&hide_border=true" alt="GitHub Streak Stats"><br>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erwin0925&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+</p>
