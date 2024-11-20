@@ -6,13 +6,13 @@
 
 <h3 align="center">A passionate developer from Malaysia - Kuala Lumpur </h3>
 
-- 🎓 Fresh graduate from <b>Asia Pacific University of Technology</b> with First Class Honors in <b>Computer Science (Intelligence System)</b>.
+- 🎓 Fresh graduate from <b>Asia Pacific University of Technology</b> with First Class Honors in <b>Computer Science (Artificial Intelligence)</b>.
 - 🌟 Currently looking for a Developer/Software Engineering job based in <b>Kuala Lumpur</b>.
 - 🚀 Just finished learning the <b>MERN stack</b> and diving deeper into the <b>Full-Stack Developer</b> path.
 
 <h3 align="left">🧷 Connect with me:</h3>
 <p align="left">
- <a href="https://www.linkedin.com/in/erwin-ko-zhi-shuen-3ba416237/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erwin ko zhi shuen" height="30" width="40" /></a>
+ <a href="https://www.linkedin.com/in/erwin-ko-zhi-shuen" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erwin ko zhi shuen" height="30" width="40" /></a>
   <a href="https://stackoverflow.com/users/28005290/erwin0925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="erwin0925" height="30" width="40" /></a>
   <a href="https://kaggle.com/erwin0925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erwin0925" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/erwin0925" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="erwin0925" height="30" width="40" /></a>
