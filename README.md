@@ -1,5 +1,5 @@
 <a href="mailto:erwin925.07@gmail.com">
-  <img src="https://github.com/user-attachments/assets/d4cc62c2-b10a-4044-8db8-4255565d1131" alt="Email Banner" />
+  <img src="https://github.com/user-attachments/assets/c1906939-dca5-4d86-baa9-fe34d4eb2e76" alt="Email Banner" />
 </a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwin0925&label=Profile%20views&color=0e75b6&style=flat" alt="erwin0925" /> </p>
