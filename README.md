@@ -4,7 +4,6 @@
   <img src="https://github.com/user-attachments/assets/265452e1-9a77-43b2-939b-d747ac8dbc9b" alt="Email Banner" />
 </a>
 
-
 <h3 align="center">A passionate developer from Malaysia - Kuala Lumpur </h3>
 
 - 🎓 Fresh graduate from <b>Asia Pacific University of Technology</b> with First Class Honors in <b>Computer Science (Artificial Intelligence)</b>
