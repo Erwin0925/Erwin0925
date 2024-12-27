@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwin0925&label=Profile%20views&color=0e75b6&style=flat" alt="erwin0925" /> </p>
 
 <a href="mailto:erwin925.07@gmail.com">
-  <img src="https://github.com/user-attachments/assets/265452e1-9a77-43b2-939b-d747ac8dbc9b" alt="Email Banner" />
+  <img src="https://github.com/user-attachments/assets/210a9d13-20be-4f4b-8351-6c449c295aae" alt="Email Banner" />
 </a>
 
 <h3 align="center">A passionate developer from Malaysia - Kuala Lumpur </h3>
