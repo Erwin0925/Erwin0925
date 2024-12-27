@@ -52,4 +52,5 @@
 <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erwin0925&theme=dark&hide_border=true" alt="GitHub Streak Stats">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwin0925&layout=compact&theme=dark" alt="Top Languages"/> -->
 </p>
