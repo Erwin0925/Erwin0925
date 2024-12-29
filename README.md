@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erwin0925&label=Profile%20views&color=0e75b6&style=flat" alt="erwin0925" /> </p>
 
-<a href="mailto:erwin925.07@gmail.com">
+<a href="mailto:erwin925.07@gmail.com"> 
   <img src="https://github.com/user-attachments/assets/210a9d13-20be-4f4b-8351-6c449c295aae" alt="Email Banner" />
 </a>
 
