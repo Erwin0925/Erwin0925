@@ -9,7 +9,7 @@
 - 🎓 Fresh graduate from <b>Asia Pacific University of Technology</b> with First Class Honors in <b>Computer Science (Artificial Intelligence)</b>
 - 🌟 Currently looking for a Developer/Software Engineering job based in <b>Kuala Lumpur</b>
 - 🗄️ Able to develop end-to-end dotnet backend</b>
-- 🗃️ Just finished learning the <b>MERN stack</b> and diving deeper into the <b>Full-Stack Developer path</b>
+- 🗃️ Currently focus on learning backend language
 
 <h3 align="left">🧷 Connect with me:</h3>
 <p align="left">
