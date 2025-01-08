@@ -51,8 +51,15 @@
 </p>
 
 
-<h3 align="left">GitHub Stats:</h3>
+<!-- <h3 align="left">GitHub Stats:</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Erwin0925&theme=dark&hide_border=true" alt="GitHub Streak Stats">
-<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwin0925&layout=compact&theme=dark" alt="Top Languages"/> -->
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erwin0925&layout=compact&theme=dark" alt="Top Languages"/>
+</p> -->
+
+
+<h3 align="left">GitHub Stats:</h3>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erwin0925&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Erwin0925&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
