@@ -60,6 +60,6 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Erwin0925&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=Erwin0925&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erwin0925&layout=compact&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
